@@ -1,1 +1,1 @@
-# TinyHero
+# Tiny Hero
