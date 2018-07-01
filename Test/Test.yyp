@@ -205,6 +205,14 @@
                 "resourcePath": "views\\f861054c-dc36-49f6-afc1-14fafd7ad9c4.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fde05e6f-4eb4-4ed2-9860-a8fb5a597aa6",
+            "Value": {
+                "id": "faf73e10-011e-489f-a695-69b7c6d1d2b6",
+                "resourcePath": "sprites\\spr_attack\\spr_attack.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
