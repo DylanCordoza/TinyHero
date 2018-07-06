@@ -50,7 +50,7 @@
             "Key": "25c1c256-4124-4b19-ab59-3cc648c6f4df",
             "Value": {
                 "id": "78e38ab7-b12a-4af9-9c81-8dd9d9a7e2b4",
-                "resourcePath": "sprites\\spr_floor\\spr_floor.yy",
+                "resourcePath": "sprites\\spr_floor_tiles\\spr_floor_tiles.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "46556070-a824-4450-b48f-90b623af6a03",
                 "resourcePath": "views\\8f796250-2558-48ed-a8d6-70e6dab62024.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9152ba6b-cabe-4773-a261-2755a4efda6b",
+            "Value": {
+                "id": "fab349a1-5858-4a90-a4a7-125ef8fdd429",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
