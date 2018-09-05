@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "972b3301-019b-4894-9cf2-96430fdb6f21",
+            "Value": {
+                "id": "51e48f89-961d-41b3-a5ef-50c948601ba5",
+                "resourcePath": "scripts\\plrSilo\\plrSilo.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a4889ebf-2ecd-4439-b42e-57655c3621d6",
             "Value": {
                 "id": "7558e7e5-3651-47b7-bdf5-e37a0c3c4667",
@@ -224,7 +232,7 @@
         }
     ],
     "script_order": [
-        
+        "972b3301-019b-4894-9cf2-96430fdb6f21"
     ],
     "tutorial": ""
 }
